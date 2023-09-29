@@ -1,0 +1,6 @@
+List Fitur : 
+1. Halaman Login
+2. Halaman Kontak 
+3. Halaman Informasi
+4. Halaman Layanan dan Harga
+5. Halaman Tentang Kami
