@@ -2,3 +2,4 @@
 Tugas Membuat Ide Bisnis Sistem Informasi
 
 LINK : [CAPET](https://xsanudin.github.io/)
+LINK : [CAPET](https:(https://sanidweb.000webhostapp.com/))
